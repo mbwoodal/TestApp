@@ -37,7 +37,6 @@ function Band({
 }) {
   return (
     <>
-      <img />
       <h2>{name}</h2>
       <h3>Original Member: {members}</h3>
       <h3>Formed: {formed}</h3>
